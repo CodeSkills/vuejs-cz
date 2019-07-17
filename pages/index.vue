@@ -2,7 +2,7 @@
   <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
     <h2 class="text-4xl inline-flex">Česká a Slovenská komunita <img class="mx-3"
            src="~/assets/logo.png"
-           style="width: 48px" /> Vue.js</h2>
+           style="height: 54px" /> Vue.js</h2>
     <div class="flex flex-wrap">
       <div class="w-full md:w-3/5 mx-auto"
            style="padding-top: 40px">
@@ -13,7 +13,7 @@
                data-src="https://secure.meetupstatic.com/photos/event/4/e/8/d/highres_482180109.jpeg"
                alt="Thumbnail [200x250]"
                src="https://secure.meetupstatic.com/photos/event/4/e/8/d/highres_482180109.jpeg"
-               data-holder-rendered="true">
+               data-holder-rendered="true" style="height:260px">
           <div class="w-3/5 p-4">
             <strong class="inline-block mb-2 text-green-600">Brno Vue.js Meetup #1</strong>
             <h3 class="mb-0">
@@ -53,7 +53,8 @@
             </h3>
             <div class="mb-1 text-gray-600">23. Května 18:30 - 20:30</div>
             <p class="card-text mb-auto text-left"
-               style="height: 59px">Připravujeme pro vás další Vue.js Meetup. <br>Tentokrát na téma "State of Vue.js 2019".</p>
+               style="height: 109px">Připravujeme pro vás další Vue.js Meetup. <br>
+               Tentokrát na téma "State of Vue.js 2019".</p>
             <a href="https://docs.google.com/presentation/d/13AF5808CNo2rB2egyLHNiLFJh3MF7ScQtUIGIzLSZgg/edit?usp=sharing"
                class="px-2"> &#128190; Stav Vue.js 2019</a>
             <a href="https://www.dropbox.com/s/i9wa8ha9cuzld3b/Vue.js%203.0.key?dl=0"
