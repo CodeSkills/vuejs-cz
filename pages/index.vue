@@ -4,15 +4,19 @@
            src="~/assets/logo.png"
            style="height: 54px" /> Vue.js</h2>
     <div class="flex flex-wrap">
-      <div class="w-full md:w-3/5 mx-auto"
+      <!-- <div class="w-full md:w-3/5 mx-auto"
            style="padding-top: 40px">
         <h3 class="py-3 text-2xl">Nadcházející meetupy</h3>
+      </div> -->
+      <div class="w-full md:w-3/5 mx-auto"
+           style="padding-top: 40px">
+        <h3 class="py-3 text-2xl">Předchozí meetupy</h3>
         <div class="flex mb-4 border text-left"
              style="opacity: 0.7">
           <img class="w-2/5 flex-auto"
-               data-src="https://secure.meetupstatic.com/photos/event/d/c/b/e/highres_487676510.jpeg"
+               data-src="https://secure.meetupstatic.com/photos/event/5/9/e/2/highres_488123010.jpeg"
                alt="Thumbnail [200x250]"
-               src="https://secure.meetupstatic.com/photos/event/d/c/b/e/highres_487676510.jpeg"
+               src="https://secure.meetupstatic.com/photos/event/5/9/e/2/highres_488123010.jpeg"
                data-holder-rendered="true" style="height:260px">
           <div class="w-3/5 p-4">
             <strong class="inline-block mb-2 text-green-600">VuePRAGUE 2020 Meetup #8</strong>
@@ -24,22 +28,16 @@
             <div class="mb-1 text-gray-600">22. Ledna 18:30 - 21:00</div>
             <p class="card-text mb-auto text-left"
                style="height: 59px">Díky úspěchům a pozitivnímu ohlasům z komunity, jsme se rozhodli organizovat prozatím největší event v Česku zaměřený na Vue.js!</p>
-            <!-- <a href="https://docs.google.com/presentation/d/1qdCnLoPRYF4QSvbpf8cuTjU0HyuxD1ufnEa9hosC_So/edit?usp=sharing"
-               class="px-2"> &#128190; Úvod do Vue.js</a>
-            <a href="https://docs.google.com/presentation/d/1WEUVu7cRXrrBCXJ6R1HEXucRjN6xe6wae9WGrXBOvmY/edit?usp=sharing"
-               class="px-2"> &#128190; Ekosystém Vue.js</a>
-            <a href="https://docs.google.com/presentation/d/1ovYhJdg2m9UNMWO8YJkDBHdzDdcC0IHfnUld0whHcNE/edit?usp=sharing"
-               class="px-2"> &#128190; Live Demo</a><br><br> -->
+            <a href="https://docs.google.com/presentation/d/1ZIt8CqIkV7Bm0Zo9t63StnUjMnvl2NrgMveBjIW0_dA/edit#usp=sharing"
+               class="px-2"> &#128190; Jak na side efekty ve Vue.js s Redux-Saga</a>
+            <a href="https://drive.google.com/file/d/1BSTy8oZGklyPps_n-aYQDVHdJj5etaJZ/view?usp=sharing"
+               class="px-2"> &#128190; Vue vs ostatní</a><br><br>
 
             <div class=""><a href="https://www.eventbrite.com/e/vueprague-2020-meetup-tickets-87456888909"
                  target="_blank"
                  class="text-green-600 mt-4">Zobrazit meetup</a></div>
           </div>
         </div>
-      </div>
-      <div class="w-full md:w-3/5 mx-auto"
-           style="padding-top: 40px">
-        <h3 class="py-3 text-2xl">Předchozí meetupy</h3>
         <div class="flex mb-4 border text-left"
              style="opacity: 0.7">
           <img class="w-2/5 flex-auto"
